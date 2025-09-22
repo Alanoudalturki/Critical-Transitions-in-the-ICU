@@ -8,7 +8,7 @@ Language & stack: Python 3.11 (pandas, numpy, scikit-learn, matplotlib, seaborn)
 ## Project Overview
 Critically ill patients often face complications such as prolonged ICU stays, hospital readmissions, and high short-term mortality. Identifying risk factors for these outcomes can guide resource allocation, improve patient management, and inform predictive decision-support tools.  
 
-This project uses the **MIMIC-IV v3.1** database to examine patient-level predictors of:  
+This project uses the MIMIC-IV v3.1 database to examine patient-level predictors of:  
 - Prolonged ICU length of stay (>7 days)  
 - 30-day hospital readmission  
 - 30-day all-cause mortality  
@@ -29,7 +29,7 @@ This project uses the **MIMIC-IV v3.1** database to examine patient-level predic
 
 ## Methods
 **Study Design:** Retrospective cohort study (N = 65,366 adult ICU patients).  
-**Data Source:** MIMIC-IV v3.1, 2008–2019, Beth Israel Deaconess Medical Center.  
+**Data Source:** MIMIC-IV v3.1, 2008–2019.  
 
 **Inclusion Criteria:**  
 - Adults ≥18 years  
